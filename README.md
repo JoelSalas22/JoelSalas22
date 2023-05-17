@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 * I am completing certifications in Backend Engineering for Python and AWS
 * Im currently working on building my first Portfolio Website and then hosting it on AWS
 * I come from a Chemistry background and would love to learn more about how I can intertwine both organic chemistry and my new found passion of programming.
-* Ask me about La Liga Football and Cleveland Sports!
-*
 
 ## Connect With Me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salas23/)
