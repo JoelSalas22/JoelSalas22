@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## My Languages
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
+
+## Frameworks and Libraries
+
+
 ## 😄 About Me
 * I am completing certifications in Backend Engineering for Python and AWS
 * Im currently working on building my first Portfolio Website and then hosting it on AWS
@@ -23,4 +30,5 @@ Here are some ideas to get you started:
 *
 
 ## Connect With Me
-*[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salas23/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salas23/)
+
