@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## Skills
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Frameworks and Libraries
 
@@ -34,5 +35,5 @@ Here are some ideas to get you started:
 
 <b>My GitHub Stats</b>
 ### Profile Summary
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark"/></a>
+![image]([{BadgeURLHere}](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name})https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark)
 
