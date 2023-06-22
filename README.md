@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 
 
 ## Stats
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22
+### Profile Summary
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={JoelSalas22}&theme={github_dark}
 
