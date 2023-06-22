@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-## My Languages
+## Skills
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Frameworks and Libraries
 
