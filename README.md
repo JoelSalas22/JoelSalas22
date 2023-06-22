@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salas23/)
 
 
-## Stats
+<b>My GitHub Stats</b>
 ### Profile Summary
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={JoelSalas22}&theme={github_dark}
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark"/></a>
 
