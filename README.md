@@ -1,39 +1,55 @@
-# Hi there, I'm Joel Salas
+<h1 align='center'> 
+ 👋 Hi there, I'm Joel 👨‍💻
+</h1>
 
-<!--
-**JoelSalas22/JoelSalas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>Currently making a career change from chemistry to learning Python and AWS to become a cloud engineer.
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="https://www.linkedin.com/in/salas23/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <p align='center'>
+    📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>salas.22@buckeyemail.osu.edu</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align='center'>
+  <h2 align='center'>Skills</h2>
+  <div align='center'>
+    <a href="#"><img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python" />
+    </a>
+    <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    </a>
+    <a href="#"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+    </a>
+  </div>
+</p>
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <a href="#"> <img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+</p>
+  
+<p align='center'>
+  <h2 align='center'>Current Projects</h2>
+     <p>
+        I am completing certifications in Backend Engineering for Python and studying for SAA-C03 Certification
+     </p>
+       <p>
+        Currently working on building my cloud resume website which will use the following tools: Route53, EC2, Fargate and APIGateway.
+       </p>
+</p>
+
+
+<!---
+<details>
+  <summary>📃 Resume</summary>
+</details>
 -->
 
+<p align='center'>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark"></a>
+</p>
 
-## Skills
-![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-## Frameworks and Libraries
-
-
-## 😄 About Me
-* I am completing certifications in Backend Engineering for Python and AWS
-* Im currently working on building my first Portfolio Website and then hosting it on AWS
-* I come from a Chemistry background and would love to learn more about how I can intertwine both organic chemistry and my new found passion of programming.
-
-## Connect With Me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salas23/)
-
-
-<b>My GitHub Stats</b>
-### Profile Summary
-![image]([(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name})https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark)]
 
