@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 <b>My GitHub Stats</b>
 ### Profile Summary
-![image]([{BadgeURLHere}](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name})https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark)
+![image]([(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name})https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark)]
 
