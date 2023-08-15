@@ -41,15 +41,15 @@
         Currently working on building my cloud resume website which will use the following tools: Route53, EC2, Fargate and APIGateway.
        </p>
 </p>
-
+<p align='center'>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark"></a>
+</p>
 <!---
 <details>
   <summary>📃 Resume</summary>
 </details>
 -->
 
-<p align='center'>
-  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark"></a>
-</p>
+
 
 
