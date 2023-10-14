@@ -2,7 +2,8 @@
  👋 Hi there, I'm Joel 👨‍💻
 </h1>
 
-<p align='center'>Currently making a career change from chemistry to learning Java, Python and AWS to become a cloud engineer. (Full-time): Currently attending a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application.
+<p align='center'>Currently making a career change from chemistry to learning Java, Python and AWS to become a cloud engineer. 
+ (Full-time): Currently attending a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application.
 
 Program Projects:
 
@@ -39,9 +40,9 @@ Candy Register Console App - Collaborated with a partner to develop a console ap
 </p>
   
 <p align='center'>
-  <h2 align='center'>Current Projects</h2>
+  <h2 align='center'>Current Goals & Projects</h2>
      <p>
-        I am completing certifications in Backend Engineering for Python and studying for SAA-C03 Certification
+         1. Studying for SAA-C03 Certification
      </p>
        <p>
         Currently working on building my cloud resume website which will use the following tools: Route53, EC2, Fargate and APIGateway.
