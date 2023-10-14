@@ -41,10 +41,11 @@ Candy Register Console App - Collaborated with a partner to develop a console ap
   
 <p align='center'>
   <h2 align='center'>Current Goals & Projects</h2>
-     <p>
-      1. Studying for SAA-C03 Certification
-      2. Creating my CloudResume and currently in the design phase of an Organic Chemistry web application that will help students study functional groups, and other key concepts in organic chemistry.
-     </p>
+     <ul>
+      <li>Studying for SAA-C03 Certification</li>
+      <li>Creating my AWS CloudResume</li>
+      <li>Design phase of an Organic Chemistry web application that will help students study functional groups, and other key concepts in organic chemistry.</li>
+     <ul/>
        
 </p>
 <p align='center'>
