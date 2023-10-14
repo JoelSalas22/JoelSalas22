@@ -6,7 +6,7 @@
 
 Program Projects:
 <ul>
-<li>Candy Register Console App - Collaborated with a partner to develop a console application using Java and Object-Oriented Programming. The application loaded inventory from a CSV file and provided features such as viewing inventory, adding to a customer balance, making purchases, and generating receipts. Throughout these operations, the application also updated the inventory and kept a log of transactions in an external file. Given that this project was only four weeks into the program, I believe that it may not accurately showcase my current skills. If you would like to review the code, please feel free to ask.
+<li>**Candy Register Console App** - Collaborated with a partner to develop a console application using Java and Object-Oriented Programming. The application loaded inventory from a CSV file and provided features such as viewing inventory, adding to a customer balance, making purchases, and generating receipts. Throughout these operations, the application also updated the inventory and kept a log of transactions in an external file. Given that this project was only four weeks into the program, I believe that it may not accurately showcase my current skills. If you would like to review the code, please feel free to ask.
 </li>
 
  
