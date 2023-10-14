@@ -42,11 +42,10 @@ Candy Register Console App - Collaborated with a partner to develop a console ap
 <p align='center'>
   <h2 align='center'>Current Goals & Projects</h2>
      <p>
-         1. Studying for SAA-C03 Certification
+      1. Studying for SAA-C03 Certification
+      2. Creating my CloudResume and currently in the design phase of an Organic Chemistry web application that will help students study functional groups, and other key concepts in organic chemistry.
      </p>
-       <p>
-        Currently working on building my cloud resume website which will use the following tools: Route53, EC2, Fargate and APIGateway.
-       </p>
+       
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoelSalas22&theme=github_dark"></a>
