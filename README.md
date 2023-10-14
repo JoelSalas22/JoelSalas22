@@ -2,7 +2,11 @@
  👋 Hi there, I'm Joel 👨‍💻
 </h1>
 
-<p align='center'>Currently making a career change from chemistry to learning Python and AWS to become a cloud engineer.
+<p align='center'>Currently making a career change from chemistry to learning Java, Python and AWS to become a cloud engineer. (Full-time): Currently attending a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application.
+
+Program Projects:
+
+Candy Register Console App - Collaborated with a partner to develop a console application using Java and Object-Oriented Programming. The application loaded inventory from a CSV file and provided features such as viewing inventory, adding to a customer balance, making purchases, and generating receipts. Throughout these operations, the application also updated the inventory and kept a log of transactions in an external file.
 </p>
 
 <p align='center'>
