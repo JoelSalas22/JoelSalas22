@@ -8,7 +8,7 @@
 Possesses a fundamental proficiency in Java, Python and is familiar with AWS and Docker. Some of the things I’m currently interested in are cloud-based development solutions, Docker, AWS, IoT development and backend engineering. I’ve been acknowledged for exceptional problem-solving abilities honed through extensive laboratory work and demonstrated an aptitude for leadership and mentorship while overseeing the organic chemistry labs at The Ohio State University and as a student at Tech Elevator.
 </p>
 <p>
-Program Projects:
+Tech Elevator Program Projects:
 <ul>
 <li>Candy Register Console App - Collaborated with a partner to develop a console application using Java and Object-Oriented Programming. The application loaded inventory from a CSV file and provided features such as viewing inventory, adding to a customer balance, making purchases, and generating receipts. Throughout these operations, the application also updated the inventory and kept a log of transactions in an external file. Given that this project was only four weeks into the program, I believe that it may not accurately showcase my current skills. If you would like to review the code, please feel free to ask.
 </li>
