@@ -50,6 +50,7 @@ Program Projects:
 <p align='center'>
   <h2 align='center'>Current Goals & Projects</h2>
      <ul>
+      <li>Finished Tech Elevator Java Bootcamp</li>
       <li>Studying for SAA-C03 Certification</li>
       <li>Creating my AWS Cloud Resume</li>
       <li>Design phase of an Organic Chemistry web application that will help students study functional groups, and other key concepts in organic chemistry.</li>
