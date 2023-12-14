@@ -2,9 +2,7 @@
  👋 Hi there, I'm Joel 👨‍💻
 </h1>
 
-<p align='center'> A former organic chemist who transitioned into software engineering, bringing a strong foundation in problem-solving and leadership. Fueled by a love of learning and actively seeking opportunities in software engineering and cloud development/technologies. 
-
-Possesses a fundamental proficiency in Java, Python and is familiar with AWS and Docker. Some of the things I’m currently interested in are cloud-based development solutions, Docker, AWS, IoT development and backend engineering. I’ve been acknowledged for exceptional problem-solving abilities honed through extensive laboratory work and demonstrated an aptitude for leadership and mentorship while overseeing the organic chemistry labs at The Ohio State University and as a student at Tech Elevator.
+<p align='center'> A former organic chemist who transitioned into software engineering, bringing a strong foundation in problem-solving and leadership. Fueled by a love of learning and actively seeking opportunities in software engineering and cloud development/technologies. Possesses a fundamental proficiency in Java, Python and is familiar with AWS and Docker. Some of the things I’m currently interested in are cloud-based development solutions, Docker, AWS, IoT development and backend engineering. I’ve been acknowledged for exceptional problem-solving abilities honed through extensive laboratory work and demonstrated an aptitude for leadership and mentorship while overseeing the organic chemistry labs at The Ohio State University and as a student at Tech Elevator.
 
 Program Projects:
 <ul>
