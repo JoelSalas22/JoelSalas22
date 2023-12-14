@@ -2,14 +2,17 @@
  👋 Hi there, I'm Joel 👨‍💻
 </h1>
 
-<p align='center'>Currently making a career change from chemistry to learning Java, Python and AWS to become a cloud engineer. Currently attending a 14-week full-stack coding bootcamp learning how to create dynamic web-based software systems using Java providing 800+ hours of development education and application.
+<p align='center'> A former organic chemist who transitioned into software engineering, bringing a strong foundation in problem-solving and leadership. Fueled by a love of learning and actively seeking opportunities in software engineering and cloud development/technologies. 
+
+Possesses a fundamental proficiency in Java, Python and is familiar with AWS and Docker. Some of the things I’m currently interested in are cloud-based development solutions, Docker, AWS, IoT development and backend engineering. I’ve been acknowledged for exceptional problem-solving abilities honed through extensive laboratory work and demonstrated an aptitude for leadership and mentorship while overseeing the organic chemistry labs at The Ohio State University and as a student at Tech Elevator.
 
 Program Projects:
 <ul>
 <li>Candy Register Console App - Collaborated with a partner to develop a console application using Java and Object-Oriented Programming. The application loaded inventory from a CSV file and provided features such as viewing inventory, adding to a customer balance, making purchases, and generating receipts. Throughout these operations, the application also updated the inventory and kept a log of transactions in an external file. Given that this project was only four weeks into the program, I believe that it may not accurately showcase my current skills. If you would like to review the code, please feel free to ask.
 </li>
-
- 
+ <li>
+  TEnmo Software App - In collaboration with a partner, I engineered a robust application resembling Venmo by leveraging a technology stack comprising Spring Web MVC, Spring Boot, REST APIs, and authentication mechanisms   using JWT. This enabled seamless fund transfers between distinct users, with transaction details systematically stored in a database for secure and efficient record-keeping.
+ </li>
 </ul>
 </p>
 
