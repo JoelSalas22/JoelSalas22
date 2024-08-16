@@ -3,7 +3,8 @@
 Software Engineer, with a passion for problem-solving and learning. I have focus on backend engineering and cloud development on AWS.
 
 - **Location**: Columbus, Ohio
-- **Company**: JP Morgan Chase & Co.
+- **University**: The Ohio State University
+
 
 ## 📫 **Reach Me At**: 
 <a href='www.linkedin.com/in/salasjoel'></a>
